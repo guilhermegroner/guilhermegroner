@@ -11,7 +11,7 @@ I am a Software Developer and machine-learning enthusiast. I am passionate about
 Here are a few things I've picked up along my learning journey.
 
 
-![Delphi](https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=delphi&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)  
+![Delphi](https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=delphi&logoColor=white) 
 
  ![Firebird](https://img.shields.io/badge/Firebird-239120?&style=for-the-badge&logo=firebird3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
