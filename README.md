@@ -1,10 +1,12 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Guilherme Groner 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Guilherme Groner 👨‍💻
 
 I am a Software Developer and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
 
 #### 🔭 Always looking for new challenges .
 
+- 🔭 I’m currently working on [Dolphin ERP](https://datapar.com.py/) with [Delphi and Oracle Database](https://www.embarcadero.com/?aldSet=en-GB)
+- 🌱 I’m currently learning **Flutter**
 
 ## ⚡ Tech Stack
 
