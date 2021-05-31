@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Guilherme Groner 👨‍💻
 
-I am a Software Developer and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
+I am a Software Developer and machine-learning enthusiast, passionate about technologies and love to learn new things.
 
 #### 🔭 Always looking for new challenges .
 
