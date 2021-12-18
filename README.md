@@ -15,7 +15,7 @@ Here are a few things I've picked up along my learning journey.
 
 ![Delphi](https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=delphi&logoColor=white) 
 
-![Oracle](https://img.shields.io/badge/Oracle-DD0031?style=for-the-badge&logo=delphi&logoColor=white) ![Firebird](https://img.shields.io/badge/Firebird-239120?&style=for-the-badge&logo=firebird3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-DD0031?style=for-the-badge&logo=oracle&logoColor=white) ![Firebird](https://img.shields.io/badge/Firebird-239120?&style=for-the-badge&logo=firebird3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
  ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
  
