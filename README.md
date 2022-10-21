@@ -43,7 +43,7 @@ Here are a few things I've picked up along my learning journey.
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Guilherme's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guilhermegroner&custom_title=guilhermegroner's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Guilherme's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guilhermegroner&custom_title=Guilherme's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
