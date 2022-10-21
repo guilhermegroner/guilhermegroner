@@ -33,7 +33,6 @@ Here are a few things I've picked up along my learning journey.
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermegroner&show_icons=true&theme=tokyonight&line_height=27" height="192px"/></a>
-
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegroner&hide=css,html&theme=tokyonight" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
