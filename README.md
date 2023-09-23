@@ -64,13 +64,6 @@ Here are a few things I've picked up along my learning journey.
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Guilherme's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guilhermegroner&custom_title=Guilherme's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
-</details>
-
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/guilherme-henrique-groner) 
 
