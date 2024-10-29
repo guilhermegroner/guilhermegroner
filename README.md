@@ -5,7 +5,7 @@ I am a Software Developer and machine-learning enthusiast, passionate about tech
 
 #### 🔭 Always looking for new challenges .
 
-### 🔭 Have a look at my linkedin profile [article](https://www.linkedin.com/in/guilherme-henrique-groner/).
+### 🔭 Have a look at my linkedin [profile](https://www.linkedin.com/in/guilherme-henrique-groner/).
 
 ## ⚡ Tech Stack
 
